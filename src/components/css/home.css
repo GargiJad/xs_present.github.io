@@ -1,0 +1,21 @@
+#mui_button {
+    position: absolute;
+    bottom: 400px;
+    right: 120px;
+}
+
+/* li.react-multi-carousel-item.react-multi-carousel-item--active {
+    flex: 1 1 auto;
+    position: relative;
+    width: 140px !important;
+} */
+/* li.react-multi-carousel-item{
+    flex: 1 1 auto;
+    position: relative;
+    width: 140px !important;
+} */
+@media only screen and (max-width: 600px) {
+    #MuiCardroot {
+        height: 100%;
+    }
+}
